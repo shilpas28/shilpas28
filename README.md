@@ -1,17 +1,17 @@
 ![MasterHead](./github-header-image.png)
 <h1 align="center">Hi 👋 I'm Shilpa!</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Tech Analyst from India</h3>
 <image align="right" alt="Coder" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpas28&label=Profile%20views&color=0e75b6&style=flat" alt="shilpas28" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shsh_twit" target="blank"><img src="https://img.shields.io/twitter/follow/shsh_twit?logo=twitter&style=for-the-badge" alt="shsh_twit" /></a> </p>
 
-- 🔭 I’m currently working on **JS and React**
+- 🔭 I’m currently working on **Data Analysis and Data Science**
 
-- 🌱 I’m currently learning **JS, React and MERN Stack**
+- 🌱 I’m also interested in learning more about **Java and DSA**
 
-- 💬 Ask me about **JAVA, DSA**
+- 💬 Ask me about **Data Analysis, Data Visualization**
 
 - 📫 How to reach me **shilpa.profid@gmail.com**
 
